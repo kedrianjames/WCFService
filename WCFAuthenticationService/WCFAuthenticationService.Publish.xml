@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Inetpub\wwwroot\WCFAuthentication" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="AuthenticationService.svc" publishTime="12/07/2012 17:48:52" />
+    <file relUrl="bin/WCFAuthenticationService.pdb" publishTime="12/07/2012 18:58:06" />
+    <file relUrl="Web.config" publishTime="12/07/2012 18:58:33" />
+    <file relUrl="bin/WCFAuthenticationService.dll" publishTime="12/07/2012 18:58:06" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,5 @@
+c:\WCFAuthenticationService\WCFAuthenticationService\bin\WCFAuthenticationService.dll
+c:\WCFAuthenticationService\WCFAuthenticationService\bin\WCFAuthenticationService.pdb
+c:\WCFAuthenticationService\WCFAuthenticationService\obj\Debug\ResolveAssemblyReference.cache
+c:\WCFAuthenticationService\WCFAuthenticationService\obj\Debug\WCFAuthenticationService.dll
+c:\WCFAuthenticationService\WCFAuthenticationService\obj\Debug\WCFAuthenticationService.pdb
